@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 abstract class User {
   look ( ) ;
   get Car ( car_id ) ;
@@ -10,3 +10,4 @@ class Auto {
     if ( this car )
     }
   }
+1

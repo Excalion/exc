@@ -1,3 +1,4 @@
+<?php
 abstract class User {
          public login;
          public is-online;
